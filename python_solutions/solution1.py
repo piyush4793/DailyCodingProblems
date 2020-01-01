@@ -1,6 +1,13 @@
 # Problem 1:
-# Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
-# For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+# The problem was asked by Google
+
+"""
+Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+"""
+
+# Author: Piyush Agarwal
+# Written on: 26-12-2019
 
 # Solution
 # We can look for S-element in already traversed array
